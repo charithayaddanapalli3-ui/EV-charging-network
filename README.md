@@ -22,7 +22,3 @@ A full-stack web application to monitor and visualize EV charging stations acros
 ```bash
 pip install fastapi uvicorn
 uvicorn main:app --reload
-### Frontend
-```bash
-npm install
-npm start
